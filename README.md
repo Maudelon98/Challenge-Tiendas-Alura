@@ -1,6 +1,6 @@
 # Challenge-Tiendas-Alura
 Este informe presenta un análisis integral de los datos de ventas de cuatro tiendas. El objetivo fue evaluar su rendimiento mediante el análisis de calificaciones, facturación, productos más vendidos y costos de envío.
-https://colab.research.google.com/drive/1l3PRA0FMksodL6173fwNMPYGfrp0lyx-#scrollTo=lLtmdftGCwVR
+
 1. Consolidación de Datos
 Se importaron los datos de cuatro tiendas desde archivos .csv alojados en GitHub. A cada tabla se le agregó una columna indicando su tienda correspondiente, y luego se unificaron en un solo DataFrame.
 2. Calificación Promedio por Tienda
